@@ -1,0 +1,270 @@
+.btn{
+    padding: 0px 0px;
+    position: relative;
+top:10px;
+height: 450; 
+color: greenyellow;
+
+}
+.cover-image{
+    width: 70px;
+}
+.rotate{
+transform: rotate(90deg);
+}
+.first-book{
+margin-top: 30px;
+border-top: 1px green solid;
+text-align: justify;
+
+
+}
+.firt-chapter-button{
+padding: 10px 20px;
+border: 1px green solid;
+border-radius: 10px;
+color: rgb(255, 255, 255);
+background-color: green;
+display: block;
+margin: 10px auto;
+text-align: center;
+transition: all 200ms ease-in-out;
+}
+.firt-chapter-button:hover{
+color: green;
+border:1px green solid;
+background-color: rgb(255, 255, 255);
+}
+.firt-book-letter{
+color: green;
+}
+.first-chapter{
+display: none;
+}
+
+.display{
+display: block !important;
+}
+
+.author{
+font-size: x-small;
+line-height: 2;
+}
+.second-book{
+margin-top: 30px;
+border-top: 1px rgb(255, 238, 5) solid;
+text-align: justify;
+
+}
+.second-book-letter{
+color: rgb(245, 241, 3);
+
+}
+
+.second-chapter{
+display: none;
+}
+.second-chapter-button{
+padding: 10px 20px;
+border: 1px rgb(245, 245, 1) solid;
+border-radius: 10px;
+color: rgb(7, 6, 0);
+background-color: rgb(251, 255, 2);
+display: block;
+margin: 10px auto;
+text-align: center;
+transition: all 200ms ease-in-out;
+}
+.second-chapter-button:hover{
+color: rgb(229, 255, 0);
+border:1px rgb(230, 247, 2) solid;
+background-color: rgb(5, 5, 0);
+}
+/*Third book*/
+.third-book{
+margin-top: 30px;
+border-top: 1px rgb(3, 50, 151) solid;
+text-align: justify;
+
+
+}
+.third-chapter-button{
+padding: 10px 20px;
+border: 1px rgb(3, 50, 151) solid;
+border-radius: 10px;
+color: rgb(255, 255, 255);
+background-color: rgb(3, 50, 151);
+display: block;
+margin: 10px auto;
+text-align: center;
+transition: all 200ms ease-in-out;
+
+}
+.third-chapter-button:hover{
+color: rgb(4, 15, 161);
+border:1px rgb(6, 3, 168) solid;
+background-color: rgb(255, 255, 255);
+}
+.third-book-letter{
+color: rgb(3, 50, 151);
+}
+.third-chapter{
+display: none;
+}
+
+/*forth book*/
+.forth-book{
+    margin-top: 30px;
+    border-top: 1px rgb(253, 124, 3) solid;
+    text-align: justify;
+    
+    
+    }
+    .forth-chapter-button{
+    padding: 10px 20px;
+    border: 1px rgb(253, 124, 3) solid;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 124, 3);
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    transition: all 200ms ease-in-out;
+    }
+    .forth-chapter-button:hover{
+    color: rgb(253, 124, 3);
+    border:1px rgb(253, 124, 3) solid;
+    background-color: rgb(255, 255, 255);
+    }
+    .forth-book-letter{
+    color: rgb(253, 124, 3);
+    }
+    .forth-chapter{
+    display: none;
+    }
+    
+
+    /*fifth book*/
+.fifth-book{
+    margin-top: 30px;
+    border-top: 1px rgb(99, 3, 253) solid;
+    text-align: justify;
+    
+    
+    }
+    .fifth-chapter-button{
+    padding: 10px 20px;
+    border: 1px rgb(99, 3, 253) solid;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(99, 3, 253);
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    transition: all 200ms ease-in-out;
+    }
+    .fifth-chapter-button:hover{
+    color: rgb(99, 3, 253);
+    border:1px rgb(99, 3, 253) solid;
+    background-color: rgb(255, 255, 255);
+    }
+    .fifth-book-letter{
+    color: rgb(99, 3, 253);
+    }
+    .fifth-chapter{
+    display: none;
+    }
+    
+
+        /*sixth book*/
+.sixth-book{
+    margin-top: 30px;
+    border-top: 1px rgb(255, 2, 221) solid;
+    text-align: justify;
+    
+    
+    }
+    .sixth-chapter-button{
+    padding: 10px 20px;
+    border: 1px rgb(255, 2, 221) solid;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 2, 221);
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    transition: all 200ms ease-in-out;
+    }
+    .sixth-chapter-button:hover{
+    color: rgb(255, 2, 221);
+    border:1px rgb(255, 2, 221) solid;
+    background-color: rgb(255, 255, 255);
+    }
+    .sixth-book-letter{
+    color: rgb(255, 2, 221);
+    }
+    .sixth-chapter{
+    display: none;
+    }
+
+    /*seventh book*/
+.seventh-book{
+    margin-top: 30px;
+    border-top: 1px rgb(255, 2, 2) solid;
+    text-align: justify;
+    
+    
+    }
+    .seventh-chapter-button{
+    padding: 10px 20px;
+    border: 1px rgb(255, 2, 2) solid;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 2, 2);
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    transition: all 200ms ease-in-out;
+    }
+    .seventh-chapter-button:hover{
+    color: rgb(255, 2, 2);
+    border:1px rgb(255, 2, 2) solid;
+    background-color: rgb(255, 255, 255);
+    }
+    .seventh-book-letter{
+    color: rgb(255, 2, 2);
+    }
+    .seventh-chapter{
+    display: none;
+    }
+
+    /*eighth book*/
+.eighth-book{
+    margin-top: 30px;
+    border-top: 1px rgb(46, 46, 46) solid;
+    text-align: justify;
+    
+    
+    }
+    .eighth-chapter-button{
+    padding: 10px 20px;
+    border: 1px rgb(46, 46, 46) solid;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(46, 46, 46);
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    transition: all 200ms ease-in-out;
+    }
+    .eighth-chapter-button:hover{
+    color: rgb(46, 46, 46);
+    border:1px rgb(46, 46, 46) solid;
+    background-color: rgb(255, 255, 255);
+    }
+    .eighth-book-letter{
+    color: rgb(46, 46, 46);
+    }
+    .eighth-chapter{
+    display: none;
+    }
