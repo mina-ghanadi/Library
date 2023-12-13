@@ -1,3 +1,47 @@
+header{
+    background-image: radial-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.3)),url("./header2.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+    height: 300px;
+width: 100%;
+
+
+}
+
+.material-symbols-outlined {
+    text-align: start !important;
+    font-size: 35px;
+    transition: all 200ms ease-in-out;
+    padding-top: 10px;
+    padding-left: 10px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.home-button:hover{
+cursor: pointer;
+color: darkred;
+
+}
+h1{
+    text-align: center;
+    padding-top: 40px;
+}
+.container{
+    padding-left: 0;
+    margin-left: 0;
+}
+.leftmenu{
+    padding-left: 0;
+    margin-left: 0;
+   
+  
+    
+   
+}
+
 .btn{
     padding: 0px 0px;
     position: relative;
